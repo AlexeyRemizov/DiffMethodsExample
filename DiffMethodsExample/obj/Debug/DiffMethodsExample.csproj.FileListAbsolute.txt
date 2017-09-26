@@ -1,0 +1,6 @@
+C:\Users\oleksii.remizov\documents\visual studio 2017\Projects\DiffMethodsExample\DiffMethodsExample\bin\Debug\DiffMethodsExample.exe.config
+C:\Users\oleksii.remizov\documents\visual studio 2017\Projects\DiffMethodsExample\DiffMethodsExample\bin\Debug\DiffMethodsExample.exe
+C:\Users\oleksii.remizov\documents\visual studio 2017\Projects\DiffMethodsExample\DiffMethodsExample\bin\Debug\DiffMethodsExample.pdb
+C:\Users\oleksii.remizov\documents\visual studio 2017\Projects\DiffMethodsExample\DiffMethodsExample\obj\Debug\DiffMethodsExample.csprojResolveAssemblyReference.cache
+C:\Users\oleksii.remizov\documents\visual studio 2017\Projects\DiffMethodsExample\DiffMethodsExample\obj\Debug\DiffMethodsExample.exe
+C:\Users\oleksii.remizov\documents\visual studio 2017\Projects\DiffMethodsExample\DiffMethodsExample\obj\Debug\DiffMethodsExample.pdb
